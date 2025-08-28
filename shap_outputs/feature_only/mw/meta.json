@@ -1,0 +1,13 @@
+{
+  "feature_names": [
+    "totaldebt_invcap_mulw_leverage_ratio",
+    "rect_turn_mulw_asset_liabilities",
+    "leverage_ratio_mulw_debt_ratio",
+    "asset_liabilities_mulw_debt_ratio",
+    "capitalization_ratio_mulw_debt_ratio2",
+    "totaldebt_invcap_mulw_debt_ratio2",
+    "roe_mulw_roa",
+    "asset_turnover_mulw_roa",
+    "longtermdebt_invcap_mulw_capitalization_ratio"
+  ]
+}

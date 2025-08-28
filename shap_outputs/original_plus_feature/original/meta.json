@@ -1,0 +1,17 @@
+{
+  "feature_names": [
+    "leverage_ratio",
+    "asset_liabilities",
+    "roe",
+    "asset_turnover",
+    "debt_ratio",
+    "debt_ratio2",
+    "roa",
+    "capitalization_ratio",
+    "longtermdebt_invcap",
+    "totaldebt_invcap",
+    "cash_debt",
+    "debt_ebitda",
+    "rect_turn"
+  ]
+}

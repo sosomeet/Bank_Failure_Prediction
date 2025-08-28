@@ -1,0 +1,12 @@
+{
+  "f1": 0.5,
+  "accuracy": 0.9793122728543472,
+  "precision": 0.5362318840579711,
+  "recall": 0.46835443037974683,
+  "best_params": {
+    "dt__criterion": "entropy",
+    "dt__max_depth": 7,
+    "dt__min_samples_leaf": 1,
+    "dt__min_samples_split": 2
+  }
+}
